@@ -16,7 +16,7 @@
   - `AWSGlueServiceRole`
   - `AmazonS3FullAccess`
 - Allowed Glue service to assume the role
-![IAM Screenshot](Screenshot%202026-04-07%20223315.png)
+![IAM Screenshot](Screenshot%202026-04-07%20223345.png)
 ---
 
 ### 3. Glue Crawler
